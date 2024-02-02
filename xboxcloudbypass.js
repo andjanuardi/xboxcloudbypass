@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Better xCloud
+// @name         Better xCloud with bypass
 // @namespace    https://github.com/redphx
 // @version      3.1.2
 // @description  Improve Xbox Cloud Gaming (xCloud) experience
-// @author       redphx
+// @author       redphx x andjanuardi
 // @license      MIT
 // @match        https://www.xbox.com/*/play*
 // @run-at       document-start
