@@ -9,7 +9,7 @@
 // @run-at       document-start
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/andjanuardi/xboxcloudbypass/main/xboxcloudbypass.meta.js
-// @downloadURL  https://github.com/andjanuardi/xboxcloudbypass/releases/download/latest/xboxcloudbypass.js
+// @downloadURL  https://github.com/andjanuardi/xboxcloudbypass/releases/download/latest/xboxcloudbypass.user.js
 // ==/UserScript==
 "use strict";
 
