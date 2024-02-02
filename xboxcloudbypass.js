@@ -9,7 +9,7 @@
 // @run-at       document-start
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/redphx/better-xcloud/main/better-xcloud.meta.js
-// @downloadURL  https://github.com/redphx/better-xcloud/releases/latest/download/better-xcloud.user.js
+// @downloadURL  https://github.com/andjanuardi/xboxcloudbypass/releases/download/latest/xboxcloudbypass.js
 // ==/UserScript==
 'use strict';
 
