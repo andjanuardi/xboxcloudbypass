@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Better xCloud
-// @namespace    https://github.com/redphx
-// @version      3.1.2
+// @name         Better xCloud with Bypass
+// @namespace    https://github.com/andjanuardi
+// @version      1.1
 // ==/UserScript==
